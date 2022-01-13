@@ -59,7 +59,7 @@ const alunos = [
 	{nome: "Rodrigo", nota: 9},
 	{nome: "Carla", nota:8},
 	{nome: "Ana", nota: 10},
-	{nome: "José", nota: 8},
+	{nome: "Felipe", nota: 8},
 ]
 ```
 
