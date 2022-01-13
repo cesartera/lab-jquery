@@ -28,7 +28,7 @@ Adicione um h1 à página, com a mensagem: “Estou pronto!” e uma imagem do B
 
 Tudo isso, claro, sem tocar no HTML.
 
-![spongebob.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/214fe218-25b2-49a4-9b72-9f2cba91a068/spongebob.gif)
+![spongebob.gif](https://pa1.narvii.com/7206/34e4c594210d6b9f7792232d059d3eb687449339r1-260-200_hq.gif)
 
 🔵 **Exercício 2 - Submit**
 
